@@ -1,0 +1,24 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" id="phone">
+    <path d="M19.762 14.307a2.894 2.894 0 0 0-4.691.868 1.379 1.379 0 0 1-.894.771 1.421 1.421 0 0 1-1.2-.208 19.41 19.41 0 0 1-2.587-2.133 19.448 19.448 0 0 1-2.129-2.585 1.418 1.418 0 0 1-.208-1.2 1.379 1.379 0 0 1 .772-.893 2.9 2.9 0 0 0 .868-4.692L7.465 2.01a2.894 2.894 0 0 0-4.519.543L1.878 4.307a6.716 6.716 0 0 0 .209 7.34 42.657 42.657 0 0 0 4.661 5.606 42.789 42.789 0 0 0 5.69 4.72 6.724 6.724 0 0 0 7.333.212 113.7 113.7 0 0 0 1.777-1.105 2.893 2.893 0 0 0 .5-4.491z" opacity="1" data-original="#000000"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19 28" id="mouse">
+    <path d="M9.5 5.25C9.73206 5.25 9.95463 5.34219 10.1187 5.50628C10.2828 5.67038 10.375 5.89294 10.375 6.125V9.625C10.375 9.85706 10.2828 10.0796 10.1187 10.2437C9.95463 10.4078 9.73206 10.5 9.5 10.5C9.26794 10.5 9.04538 10.4078 8.88128 10.2437C8.71719 10.0796 8.625 9.85706 8.625 9.625V6.125C8.625 5.89294 8.71719 5.67038 8.88128 5.50628C9.04538 5.34219 9.26794 5.25 9.5 5.25ZM16.5 19.25C16.5 21.1065 15.7625 22.887 14.4497 24.1997C13.137 25.5125 11.3565 26.25 9.5 26.25C7.64348 26.25 5.86301 25.5125 4.55025 24.1997C3.2375 22.887 2.5 21.1065 2.5 19.25V8.75C2.5 6.89348 3.2375 5.11301 4.55025 3.80025C5.86301 2.4875 7.64348 1.75 9.5 1.75C11.3565 1.75 13.137 2.4875 14.4497 3.80025C15.7625 5.11301 16.5 6.89348 16.5 8.75V19.25ZM9.5 0C7.17936 0 4.95376 0.921872 3.31282 2.56282C1.67187 4.20376 0.75 6.42936 0.75 8.75V19.25C0.75 21.5706 1.67187 23.7962 3.31282 25.4372C4.95376 27.0781 7.17936 28 9.5 28C11.8206 28 14.0462 27.0781 15.6872 25.4372C17.3281 23.7962 18.25 21.5706 18.25 19.25V8.75C18.25 6.42936 17.3281 4.20376 15.6872 2.56282C14.0462 0.921872 11.8206 0 9.5 0Z" />
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38 38" id="arrow">
+    <circle cx="19" cy="19" r="19" fill="#D9D9D9" />
+    <path d="M25.1917 12.8073L12.0039 26.4951" stroke="#313131" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M25.1917 12.8073L25.8988 19.1713" stroke="#313131" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M25.1921 12.8077L18.8281 12.1006" stroke="#313131" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 28 12" id="arrow-left">
+    <path d="M1 6L27 6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M1 6L5 1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M1 6L5 11" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 29 12" id="arrow-right">
+    <path d="M27.1602 6H1.16016" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M27.1602 6L23.1602 11" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M27.1602 6L23.1602 1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </symbol>
+</svg>
